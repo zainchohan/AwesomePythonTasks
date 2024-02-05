@@ -1,14 +1,22 @@
-### Task 1: Secret Number 🕵️‍♂️
-- **Description:** Generate a secret number between a specified range.
+# 🧙‍♂️ Magical Functions with Python 🐍
 
-### Task 2: Num Vowels 📚
-- **Description:** Count the number of vowels in a given string.
+This repository contains Python scripts for some magical functions! ✨
 
-### Task 3: Hours to Minutes ⏰
-- **Description:** Convert hours to minutes.
+### Tasks:
 
-### Task 5: Multiplication Table 📊
-- **Description:** Print the multiplication table of a given number up to 12 times that number.
+1. **Secret Number**
+   - Generate a secret number within a specified range.
 
-### Task 6: Admission Eligibility 🎓
-- **Description:** Check if a student is eligible for admission to a university based on certain criteria.
+2. **Num Vowels**
+   - Count the number of vowels in a given string.
+
+3. **Hours to Minutes**
+   - Convert hours to minutes.
+
+4. **Print Table**
+   - Print the multiplication table of a given number up to 12 times that number.
+
+5. **Eligibility Check**
+   - Determine if a student is eligible for admission to a university.
+
+Feel free to explore and use these magical functions in your Python projects! 🚀
